@@ -1,0 +1,8 @@
+{
+  "name": "JF12 - Sistema de Uniformes Industriales",
+  "description": "Sistema de gestión integral para JF12 Uniformes & Dotaciones Industriales: pedidos, inventario, rastreo logístico, reportes mensuales, seguridad y permisos delegados por el administrador principal.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
